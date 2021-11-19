@@ -6,9 +6,9 @@ A basic app for tracking employee information such as ID, name and department.
 - I attempted to make a database with a series of tables to keep track of some employee information for an office inclusing their roles and ids.
 
 ## Installation
-- fork repo
+- clone repo
 - npm i dependencies
-- navigate into sql file and source the db
+- navigate into sql folder and source the schema
 - npm start
 
 ## Features
@@ -22,4 +22,4 @@ A basic app for tracking employee information such as ID, name and department.
 GitHub: https://github.com/jheckel-dev/employee-tracker
 
 ## Example
-<img src="https://github.com/jheckel-dev/employee-tracker/blob/main/assets/img/Screen-Recording-2021-11-17-at-7.22.58-PM.gif?raw=true">
+<img src="">
