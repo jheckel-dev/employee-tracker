@@ -22,4 +22,4 @@ A basic app for tracking employee information such as ID, name and department.
 GitHub: https://github.com/jheckel-dev/employee-tracker
 
 ## Example
-<img src="">
+<img src="assets/img/Screen-Recording-2021-11-18-at-8.21.08-PM.gif">
